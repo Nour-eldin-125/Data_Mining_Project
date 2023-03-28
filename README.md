@@ -7,7 +7,7 @@ This project applies different classification and clustering techniques on a bre
 3. Naive Bayes
 4. Support Vector Machines (SVM)
 </br>
-The dataset used in this project is the Wisconsin Breast Cancer dataset, (Available on Kaggle) ![https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data]
+The dataset used in this project is the Wisconsin Breast Cancer dataset. <a href="https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data" target="_blank">(Available on Kaggle)</a>
 
 ### Installation
 To run this project, you will need to have Python 3 installed on your system. You will also need the following libraries:
@@ -28,3 +28,7 @@ pip install pandas numpy seaborn scikit-learn matplotlib
 In this project, we applied various classification and clustering techniques on a breast cancer dataset. 
 The results show that DT achieved the highest accuracy of all the classification algorithms.
 The results of this project can be used to develop a breast cancer diagnostic tool based on machine learning techniques.
+
+### Contributers:
+1. Nour EL-din Talaat Ezzat
+2. Reda Mohsen Reda
